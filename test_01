@@ -1,0 +1,34 @@
+# print("Hello World\nThis is a message\nAnd this is a massage")
+# x=3
+# print(x)
+# y=5
+# print(x,y)
+#
+# name=input("what's the name? ")
+# print(name)
+#
+# integerNumb = int(input("here's my number: "))
+# print(integerNumb, "so call me maybe")
+#
+# floatNumber = float(input("insert a float: "))
+# print(floatNumber)
+
+# x = int(input("enter x: "))
+# if x == 0:
+#     print("terrible mistake")
+#     x = not x
+#     print(x)
+# else:
+#     print("cool, yeah?!")
+#     x = not x
+#     print(x)
+
+# for i in range (0,5):
+#     print(i)
+x=0
+while x!=5:
+    x = int(input("guess the number: "))
+    if x != 5:
+        print("\nnope, try again\n")
+    else:
+        print("very good!\n")

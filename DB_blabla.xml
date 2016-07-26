@@ -1,0 +1,5 @@
+<vehicleList>
+	<audiokit vehicleKey = "Bimota_SB8_2014"	 sourcescriptval="c:/users/srcnoconv/data/soundconfig/vehicles/Ducati/Ducati_1098R_2014.xml" />
+	<audiokit vehicleKey = "Bimota_DB8_2004"	 sourcescriptval="c:/users/srcnoconv/data/soundconfig/vehicles/Ducati/Ducati_1098R_2014.xml" />
+	<audiokit vehicleKey = "Bimota_DB8_Oronero"	 sourcescriptval="c:/users/srcnoconv/data/soundconfig/vehicles/Ducati/Ducati_1098R_2014.xml" />
+</vehicleList>

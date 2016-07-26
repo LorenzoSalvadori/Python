@@ -1,0 +1,7 @@
+bikes = {'Bimota_SB8_2014':'Ducati_1098R_2014' , "Bimota_DB8_2004" : 'Ducati_1098R_2014'}
+bikes['Bimota_DB8_Oronero'] = 'Ducati_1098R_2014'
+
+print (bikes)
+
+del bikes['Bimota_SB8_2014']
+print (bikes)
